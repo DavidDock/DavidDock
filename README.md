@@ -73,6 +73,19 @@ When I'm not working or coding, I can be found either exerciseing 💪🏃 (I'm 
 ![Codeanywhere](https://img.shields.io/badge/codeanywhere-purple?style=for-the-badge)
 
 
-#### 👩🏻‍🏫 I'm Currently Learning
+#### 💡 I'm Currently Learning
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+---
+
+### Projects for Code Institute Diploma
+
+| Project No.   | Project | Description | Grade | 
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| 1 | <p><a href="https://github.com/DavidDock/bodyweight-home-fitness"><img src="https://github.com/DavidDock/bodyweight-home-fitness/blob/main/assets/media/devices.jpg"></a></p><p>Bodyweight Home Fitness</p> | <p> A website to give motivation and ideas to people working out at home. Using HTML and CSS | Merit |
+| 2 | <p><a href="https://github.com/DavidDock/ElephantMouseMonkey"><img src="https://github.com/DavidDock/ElephantMouseMonkey/blob/main/assets/media/responsive.png"></a></p><p>Elephant Mouse Monkey</p> | <p> A short game - Pick Elephant, Mouse or Monkey! Using HTML, CSS and vanilla Javascript | Distinction |
+| 3 | <p><a href="https://github.com/DavidDock/Battleship"><img src="https://github.com/DavidDock/Battleship/blob/main/assets/media/title.png"></a></p><p>Battleship</p> | <p> A game of Battleship using the comand line (pc only/not mobile) using Python <p> | Merit |
+| 4 | <p><a href=""><img src=""></a></p><p></p> | <p></p> | Distinction |
+| 5 | <p><a href=""><img src=""></a></p><p></p> | <p></p> | TBC |
