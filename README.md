@@ -80,12 +80,12 @@ When I'm not working or coding, I can be found either exerciseing 💪🏃 (I'm 
 
 ---
 
-### Projects for Code Institute Diploma
+### Projects for Code Institute Full Stack Sooftware Development Diploma
 
 | Project No.   | Project | Description | Grade | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | 1 | <p><a href="https://github.com/DavidDock/bodyweight-home-fitness"><img src="https://github.com/DavidDock/bodyweight-home-fitness/blob/main/assets/media/devices.jpg"></a></p><p>Bodyweight Home Fitness</p> | <p> A website to give motivation and ideas to people working out at home. Using HTML and CSS | Merit |
 | 2 | <p><a href="https://github.com/DavidDock/ElephantMouseMonkey"><img src="https://github.com/DavidDock/ElephantMouseMonkey/blob/main/assets/media/responsive.png"></a></p><p>Elephant Mouse Monkey</p> | <p> A short game - Pick Elephant, Mouse or Monkey! Using HTML, CSS and vanilla Javascript | Distinction |
 | 3 | <p><a href="https://github.com/DavidDock/Battleship"><img src="https://github.com/DavidDock/Battleship/blob/main/assets/media/title.png"></a></p><p>Battleship</p> | <p> A game of Battleship using the comand line (pc only/not mobile) using Python <p> | Merit |
-| 4 | <p><a href=""><img src=""></a></p><p></p> | <p></p> | Distinction |
-| 5 | <p><a href=""><img src=""></a></p><p></p> | <p></p> | TBC |
+| 4 | <p><a href="https://github.com/DavidDock/works-of-wes-anderson"><img src="https://github.com/DavidDock/works-of-wes-anderson/blob/main/documentation/design/responsive.png"></a></p><p></p> | <p> A website celebrating the works of Wes Anderson with User Login and CRUD functionality. Using HTML, CSS, Python, Javascript, Bootstrap, jQuery, Django and a relational DB</p> | Distinction |
+| 5 | <p><a href="https://github.com/DavidDock/cheers-to-beers"><img src="https://github.com/DavidDock/cheers-to-beers/blob/main/public/documentaion/images/features/responsive.png"></a><a href="https://github.com/DavidDock/cheers-api"><p>Backend API</p></a></p><p></p> | <p> A social network website created with React and Django REST allowing users to share their favourite beers and interact with each other. Developed using HTML, CSS, Javascript, Pyhon, React and Django REST created Api connecting to a relational DB </p> | TBC |
