@@ -1,16 +1,19 @@
-## Hi there 👋
+# David Docksey
+## Full Stack Software Developer
 
-<!--
-**DavidDock/DavidDock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+Hello I'm David, a Junior Software Developer in the making 👋🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've recently completed my Diploma in Full Stack Software Development (Advanced Front-End) from the Code Institute, awaiting my final results.
+
+I enjoy coding and design and am currently looking for a career change in this direction.
+When I'm not working or coding, I can be found either exerciseing 💪🏃 (I'm currently designing a workout journal website to pair my love of coding and fitness), in the great outdoors 🚵 or, most importantly spending time with my family 👨‍👩‍👦.
+
+
+- - -
+
+
+### Contact Me
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/david-docksey/)
