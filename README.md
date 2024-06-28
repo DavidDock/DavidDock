@@ -81,7 +81,7 @@ When I'm not working or coding, I can be found either exercising 💪🏃 (I've 
 
 ---
 
-### Projects for Code Institute Full Stack Software Development Diploma - Grade - Merit
+### Projects for Code Institute Full Stack Software Development Diploma - Grade: Merit
 
 | Project | Description | 
 | :-----------: | :-----------: |
