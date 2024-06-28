@@ -5,7 +5,7 @@
 
 Hello I'm David, a Junior Software Developer in the making 👋🏻
 
-I've recently completed my Diploma in Full Stack Software Development (Advanced Front-End) from the Code Institute, awaiting my final results.
+I've recently completed my Diploma in Full Stack Software Development (Advanced Front-End) from the Code Institute and acheived a Merit grade.
 
 I enjoy coding and design and am currently looking for a career change in this direction.  
 
